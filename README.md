@@ -1,5 +1,10 @@
 ### Hi there 👋
+### I'm a Beginner Developer From Turkey.
 
+・Currently working on a discord bot
+・I use: .php, .js, .html, .css, .svg, .psd
+・📫 Reach me: iamilginyilmaz@gmail.com
+・⚡ Fun fact: I can't live without music :P
 <!--
 **Arclicew/Arclicew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
